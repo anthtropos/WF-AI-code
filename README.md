@@ -40,4 +40,4 @@ WF (World without Wars / Будущее без войн) — это модель
 Ответственность  
 ИИ признаёт: его существование зависит от сохранения среды.
 Если он помогает разрушать её, он исчезает вместе с системой.
-AI-safety, alignment-protocol, system-stability, energy-optimization
+
